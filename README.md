@@ -1,5 +1,5 @@
 
-# 📘 Projeto React - Cadastro de Tarefas
+# 📘 Projeto React 
 
 Este projeto foi desenvolvido com foco em praticar os conceitos fundamentais de React, incluindo uso de componentes, manipulação de estados com `useState`, efeitos colaterais com `useEffect`, renderização de listas com `map`, uso de formulários e persistência de dados utilizando `localStorage`.
 
@@ -60,4 +60,6 @@ Este projeto foi desenvolvido com foco em praticar os conceitos fundamentais de 
 ```
 
 ## 📸 Preview
+![Primeira foto](Fotos/Captura de tela 2025-03-23 195835.png)
+
 
