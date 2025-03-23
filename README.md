@@ -1,9 +1,9 @@
 
-# 📘 Projeto React 
+# 📘 Projeto  
 
 Este projeto foi desenvolvido com foco em praticar os conceitos fundamentais de React, incluindo uso de componentes, manipulação de estados com `useState`, efeitos colaterais com `useEffect`, renderização de listas com `map`, uso de formulários e persistência de dados utilizando `localStorage`.
 
-## 🎯 Funcionalidades
+## Funcionalidades
 
 - Formulário para cadastro de tarefas.
 - Renderização dinâmica de tarefas em lista.
@@ -12,14 +12,14 @@ Este projeto foi desenvolvido com foco em praticar os conceitos fundamentais de 
 - Cadastro e exibição do nome do usuário.
 - Personalização do fundo da página com base na cor escolhida pelo usuário.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - React
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 
-## 🧠 Conceitos Praticados
+## Conceitos 
 
 - Componentes funcionais
 - Estados com `useState`
@@ -30,7 +30,7 @@ Este projeto foi desenvolvido com foco em praticar os conceitos fundamentais de 
 - Uso de `key` em listas dinâmicas
 - Personalização de interface
 
-## 🛠️ Como Rodar o Projeto
+## Como Rodar ?
 
 1. Clone este repositório:
    ```bash
@@ -57,9 +57,9 @@ Este projeto foi desenvolvido com foco em praticar os conceitos fundamentais de 
    http://localhost:3000
    ```
 
-```
 
-📸 Fotos
+## Fotos
+
 
 ![ Primeira Imagem](https://github.com/user-attachments/assets/918fd016-eb07-4044-81c9-1a67c1d4f560)
 
