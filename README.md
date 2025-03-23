@@ -59,7 +59,8 @@ Este projeto foi desenvolvido com foco em praticar os conceitos fundamentais de 
 
 ```
 
-## 📸 Preview
+📸 Fotos
+
 ![ Primeira Imagem](https://github.com/user-attachments/assets/918fd016-eb07-4044-81c9-1a67c1d4f560)
 
 ![Segunda Imagem](https://github.com/user-attachments/assets/4ee461e0-513e-411e-b1dc-4b2f4166fb77)
