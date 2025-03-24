@@ -1,25 +1,24 @@
-https://avatars.githubusercontent.com/u/126732728?v=4
-# 📘 Projeto  
+## Projeto - Desenvolvimento Web I ✅
 
-Este projeto foi desenvolvido com foco em praticar os conceitos fundamentais de React, incluindo uso de componentes, manipulação de estados com `useState`, efeitos colaterais com `useEffect`, renderização de listas com `map`, uso de formulários e persistência de dados utilizando `localStorage`.
+Este projeto foi criado para exercitar os princípios básicos do React, incluindo a utilização de componentes, gerenciamento de estado com useState, efeitos colaterais com useEffect, exibição dinâmica de listas com map, manipulação de formulários e armazenamento de dados no localStorage.
 
-## Funcionalidades
+## Funcionalidades📝 
 
-- Formulário para cadastro de tarefas.
-- Renderização dinâmica de tarefas em lista.
-- Armazenamento das tarefas no `localStorage`.
-- Persistência das tarefas mesmo após recarregar ou fechar a página.
-- Cadastro e exibição do nome do usuário.
-- Personalização do fundo da página com base na cor escolhida pelo usuário.
+- Cadastro e exibição de tarefas.
+- Armazenamento e persistência no localStorage.
+- Personalização do fundo da página.
+  
+## Tecnologias Utilizadas 🛠
 
-## Tecnologias Utilizadas
+- Linguagem: JavaScript
+- Framework: React.js
+- Gerenciamento de Estado: useState, useEffect
+- Interface e Estilo: JSX, CSS
+- Arquitetura de Componentes: Componentes funcionais
+- Armazenamento Local: localStorage para salvar preferências do usuário
 
-- React
-- JavaScript (ES6+)
-- HTML5
-- CSS3
 
-## Conceitos 
+## Conceitos 🎯
 
 - Componentes funcionais
 - Estados com `useState`
@@ -30,7 +29,7 @@ Este projeto foi desenvolvido com foco em praticar os conceitos fundamentais de 
 - Uso de `key` em listas dinâmicas
 - Personalização de interface
 
-## Como Rodar ?
+Como Rodar ?
 
 1. Clone este repositório:
    ```bash
