@@ -1,4 +1,4 @@
-
+https://avatars.githubusercontent.com/u/126732728?v=4
 # 📘 Projeto  
 
 Este projeto foi desenvolvido com foco em praticar os conceitos fundamentais de React, incluindo uso de componentes, manipulação de estados com `useState`, efeitos colaterais com `useEffect`, renderização de listas com `map`, uso de formulários e persistência de dados utilizando `localStorage`.
